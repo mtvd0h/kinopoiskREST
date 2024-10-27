@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pages>
+    <items>
+        <film>
+            <countries>
+                <id>34</id>
+                <country>Россия</country>
+            </countries>
+            <description>Интриги, убийство, любовь — на фоне Гражданской войны в США. 8 «Оскаров»</description>
+            <genres>
+                <id>2</id>
+                <genre>драма</genre>
+            </genres>
+            <id>43</id>
+            <kinopoiskId>456</kinopoiskId>
+            <nameRu>Новый тестовый фильм</nameRu>
+        </film>
+    </items>
+    <total>0</total>
+    <totalPages>0</totalPages>
+</pages>
